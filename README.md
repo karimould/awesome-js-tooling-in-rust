@@ -47,6 +47,7 @@
 
 ## Miscellaneous
 
+- [rome](https://rome.tools/), "Rome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS." ** Will be rewritten in Rust https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust
 - [Fast Node Manager (fnm)](https://github.com/Schniz/fnm), Node.js version manager
 - [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust), find unused dependencies in Node.js applications
 - [rustywind](https://github.com/avencera/rustywind), sort tailwind css classes
