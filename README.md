@@ -16,14 +16,14 @@
 ## Bundlers
 
 - [packem](https://packem.github.io/)
-- [parcel 2](https://v2.parceljs.org/)
+- [parcel](https://parceljs.org/)
 - [pax](https://github.com/vitali2y/pax)
 - [moon](https://github.com/moonrepo/moon)
 
 ## Compilers
 
 - [paperclip](https://paperclip.dev/), presentational component compiler
-- [parcel 2](https://v2.parceljs.org/),  TypeScript/JavaScript compiler
+- [parcel](https://parceljs.org/),  TypeScript/JavaScript compiler
 - [relay compiler](https://github.com/facebook/relay/tree/master/compiler), Relay compiler rewritten in  Rust (experimental)
 - [rusty-typescript](https://github.com/yever/rusty-typescript), TypeScript compiler
 - [swc](https://github.com/swc-project/swc), TypeScript/JavaScript compiler
@@ -55,6 +55,9 @@
 - [rustywind](https://github.com/avencera/rustywind), sort tailwind css classes
 - [svgcleaner](https://github.com/RazrFalcon/svgcleaner), clean up svg files
 - [volta](https://volta.sh/), a JavaScript Tool Manager
+
+## CSS
+- [lightning CSS](https://lightningcss.dev/), "An extremely fast CSS parser, transformer, bundler, and minifier.". The CSS transformer and minifier used in [Parcel](https://parceljs.org/).
 
 ## WASM
  
