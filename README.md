@@ -15,6 +15,7 @@
 
 ## Bundlers
 
+- [turbopack](https://turbo.build/pack), "incremental bundler optimized for JavaScript and TypeScript" by Vercel
 - [packem](https://packem.github.io/)
 - [parcel](https://parceljs.org/)
 - [pax](https://github.com/vitali2y/pax)
