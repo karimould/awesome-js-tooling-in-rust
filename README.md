@@ -56,6 +56,8 @@
 - [rustywind](https://github.com/avencera/rustywind), sort tailwind css classes
 - [svgcleaner](https://github.com/RazrFalcon/svgcleaner), clean up svg files
 - [volta](https://volta.sh/), a JavaScript Tool Manager
+- [stc](https://github.com/dudykr/stc), Speedy TypeScript type checker
+
 
 ## CSS
 - [lightning CSS](https://lightningcss.dev/), "An extremely fast CSS parser, transformer, bundler, and minifier.". The CSS transformer and minifier used in [Parcel](https://parceljs.org/).
