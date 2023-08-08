@@ -19,6 +19,7 @@
 - [packem](https://packem.github.io/)
 - [parcel](https://parceljs.org/)
 - [pax](https://github.com/vitali2y/pax)
+- [rspack](https://www.rspack.dev/), A fast Rust-based web bundler
 - [moon](https://github.com/moonrepo/moon)
 
 ## Compilers
