@@ -47,6 +47,7 @@
 
 - [deno Lint](https://github.com/denoland/deno_lint), crate for writing fast JavaScript and TypeScript linters
 - [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter
+- [oxlint](https://oxc-project.github.io/docs/guide/usage/linter.html) drop-in replacement for ESLint with more than 200 rules
 
 
 ## Miscellaneous
