@@ -39,6 +39,7 @@
 
 ## Formatters
 
+- [Biome](https://biomejs.dev), Biome is a fast formatter for JavaScript, TypeScript, JSX, and JSON that scores 97% compatibility with Prettier, saving CI and developer time.
 - [dprint](https://dprint.dev), Pluggable and configurable code formatting platform written in Rust. Supports several languages such as [JavaScript/TypeScript](https://dprint.dev/plugins/typescript/).
 - [dprint plugin for TypeScript](https://github.com/dprint/dprint-plugin-typescript), dprint plugin for TypeScript 
 - [rome formatter](https://rome.tools/#getting-started), formatter of the rome toolchain 
