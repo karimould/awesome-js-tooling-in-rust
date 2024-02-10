@@ -52,7 +52,8 @@
 
 ## Miscellaneous
 
-- [biome](https://biomejs.dev/), "Biome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS." 
+- [biome](https://biomejs.dev/), "Biome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS."
+- [bun](https://bun.sh), "Develop, test, run, and bundle JavaScript & TypeScript projects—all with Bun. Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager."
 - [Fast Node Manager (fnm)](https://github.com/Schniz/fnm), Node.js version manager
 - [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust), find unused dependencies in Node.js applications
 - [rustywind](https://github.com/avencera/rustywind), sort tailwind css classes
