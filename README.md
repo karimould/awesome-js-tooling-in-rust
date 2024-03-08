@@ -20,6 +20,7 @@
 - [parcel](https://parceljs.org/)
 - [pax](https://github.com/vitali2y/pax)
 - [rspack](https://www.rspack.dev/), A fast Rust-based web bundler
+- [rolldown](https://github.com/rolldown-rs/rolldown), A fast Rust bundler for JavaScript with Rollup-compatible API.
 - [moon](https://github.com/moonrepo/moon)
 
 ## Compilers
