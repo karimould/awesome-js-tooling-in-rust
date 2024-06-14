@@ -22,6 +22,7 @@
 - [rspack](https://www.rspack.dev/), A fast Rust-based web bundler
 - [rolldown](https://github.com/rolldown-rs/rolldown), A fast Rust bundler for JavaScript with Rollup-compatible API.
 - [moon](https://github.com/moonrepo/moon)
+- [Farm](https://www.farmfe.org/), Extremely Fast Web Build Tool Written in Rust (Vite compatible)
 
 ## Compilers
 
