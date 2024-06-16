@@ -41,12 +41,13 @@
 
 ## Formatters
 
+- [Biome](https://biomejs.dev/), One toolchain for your web project
 - [dprint](https://dprint.dev), Pluggable and configurable code formatting platform written in Rust. Supports several languages such as [JavaScript/TypeScript](https://dprint.dev/plugins/typescript/).
 - [dprint plugin for TypeScript](https://github.com/dprint/dprint-plugin-typescript), dprint plugin for TypeScript 
-- [rome formatter](https://rome.tools/#getting-started), formatter of the rome toolchain 
 
 ## Linters
 
+- [Biome](https://biomejs.dev/), One toolchain for your web project
 - [deno Lint](https://github.com/denoland/deno_lint), crate for writing fast JavaScript and TypeScript linters
 - [RSLint](https://github.com/rslint/rslint), a (WIP) Extremely fast JavaScript and TypeScript linter
 - [oxlint](https://oxc-project.github.io/docs/guide/usage/linter.html) drop-in replacement for ESLint with more than 200 rules
@@ -54,7 +55,6 @@
 
 ## Miscellaneous
 
-- [biome](https://biomejs.dev/), "Biome is a linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS." 
 - [Fast Node Manager (fnm)](https://github.com/Schniz/fnm), Node.js version manager
 - [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust), find unused dependencies in Node.js applications
 - [rustywind](https://github.com/avencera/rustywind), sort tailwind css classes
