@@ -35,7 +35,8 @@
 ## Engines
 
 - [boa](https://github.com/boa-dev/boa), an embeddable and experimental JavaScript engine
-- [deno](https://github.com/denoland/deno), JavaScript and TypeScript runtime 
+- [deno](https://github.com/denoland/deno), JavaScript and TypeScript runtime
+- [Nova](https://github.com/trynova/nova),  JavaScript and WebAssembly engine, following data-oriented design principles.
 - [starlight](https://github.com/Starlight-JS/starlight), JavaScript Engine with focus on performance
 
 
