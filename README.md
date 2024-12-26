@@ -22,10 +22,10 @@
 - [rspack](https://www.rspack.dev/), A fast Rust-based web bundler
 - [rolldown](https://github.com/rolldown-rs/rolldown), A fast Rust bundler for JavaScript with Rollup-compatible API.
 - [moon](https://github.com/moonrepo/moon)
-- [Farm](https://www.farmfe.org/), Extremely Fast Web Build Tool Written in Rust (Vite compatible)
+- [farm](https://www.farmfe.org/), Extremely Fast Web Build Tool Written in Rust (Vite compatible)
 
 ## Compilers
-
+- [Ezno](https://github.com/kaleidawave/ezno), TypeScript type checker and compiler with additional experiments.  
 - [paperclip](https://paperclip.dev/), presentational component compiler
 - [parcel](https://parceljs.org/),  TypeScript/JavaScript compiler
 - [relay compiler](https://github.com/facebook/relay/tree/master/compiler), Relay compiler rewritten in  Rust (experimental)
@@ -36,7 +36,7 @@
 
 - [boa](https://github.com/boa-dev/boa), an embeddable and experimental JavaScript engine
 - [deno](https://github.com/denoland/deno), JavaScript and TypeScript runtime
-- [Nova](https://github.com/trynova/nova),  JavaScript and WebAssembly engine, following data-oriented design principles.
+- [nova](https://github.com/trynova/nova),  JavaScript and WebAssembly engine, following data-oriented design principles.
 - [starlight](https://github.com/Starlight-JS/starlight), JavaScript Engine with focus on performance
 
 
