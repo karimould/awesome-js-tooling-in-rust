@@ -26,6 +26,7 @@
 
 ## Compilers
 
+- [Ezno](https://github.com/kaleidawave/ezno), TypeScript type checker and compiler with additional experiments.
 - [paperclip](https://paperclip.dev/), presentational component compiler
 - [parcel](https://parceljs.org/),  TypeScript/JavaScript compiler
 - [relay compiler](https://github.com/facebook/relay/tree/master/compiler), Relay compiler rewritten in  Rust (experimental)
